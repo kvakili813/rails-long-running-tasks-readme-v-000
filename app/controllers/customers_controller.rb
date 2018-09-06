@@ -13,5 +13,4 @@ class CustomersController < ApplicationController
      redirect_to customers_path
    end
 
-
 end
